@@ -16,6 +16,7 @@ import org.tensorflow.types.UInt8;
 
 /**
  * Java inference for the Object Detection API at:
+ * https://github.com/tensorflow/models/tree/75c931fd91b4806e4d28f816ab5d84ed35423570/samples/languages/java/object_detection
  * https://github.com/tensorflow/models/blob/master/research/object_detection/
  */
 public class DetectObjects

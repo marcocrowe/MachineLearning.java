@@ -31,6 +31,7 @@ import org.tensorflow.Tensors;
 /**
  * Simplified version of
  * https://github.com/tensorflow/tensorflow/blob/r1.4/tensorflow/java/src/main/java/org/tensorflow/examples/LabelImage.java
+ * https://github.com/tensorflow/models/tree/75c931fd91b4806e4d28f816ab5d84ed35423570/samples/languages/java/label_image
  */
 public class LabelImage
 {
